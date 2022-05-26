@@ -12,9 +12,9 @@ O que iremos aprender:
 ### O que é spotify wrapped
 Hoje, venho mostrar um projeto utilizando a plataforma de streaming de música mais utilizada no mundo, o Spotify. Iremos criar um recorço semelhante ao que o Spotify disponibiliza, chamada "Spotify Wrapped", que nada mais é do que uma retrospectiva das músicas, artistas entro outros, mais ouvidos durante o seu ano.
 
-<img src="https://github.com/patrickpiccini/DataScience_Spotify_Wrapped/blob/main/Images/2022-05-19%2019_20_48-Window.png?raw=true" alt="drawing" width="600"/>
+<img src="https://github.com/patrickpiccini/DataScience_Spotify_Wrapped/blob/main/Images/wrapped.png" alt="drawing" width="600"/>
 
 ### DataSet
 Nesse projeto irei utilizar o meu DataSet pessoal de meu perfil do Spotify. Para conseguir as suas informações pessoais, basta ir nas [Configurações de Privacidade](https://www.spotify.com/br/account/privacy/) da sua conta, e no final da página, seguir os passos para solicitação de seus dados. Dentro de alguns dias, você recebera por e-mail a confinação para baixas seus dados.
 
-<img src="https://github.com/patrickpiccini/DataScience_Spotify_Wrapped/blob/main/Images/2022-05-19%2019_21_51-Window.png?raw=true" alt="drawing" width="900"/>
+<img src="https://github.com/patrickpiccini/DataScience_Spotify_Wrapped/blob/main/Images/steps.png" alt="drawing" width="900"/>
